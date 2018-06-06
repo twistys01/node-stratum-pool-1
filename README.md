@@ -61,7 +61,7 @@ npm update
 
 Create the configuration for your coin:
 
-Possible options for `algorithm`: *equihash48_5, equihash96_3, equihash96_5, equihash192_7, equihash200_9*.
+Possible options for `algorithm`: *equihash48_5, equihash96_3, equihash96_5, Equihash144_5, equihash192_7, equihash200_9*.
 
 ```javascript
 var myCoin = {
