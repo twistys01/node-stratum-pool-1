@@ -25,10 +25,10 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/litecoinz-project/node-stratum-pool.git"
+        "url": "https://github.com/joshuayabut/node-stratum-pool.git"
     },
     "dependencies": {
-        "equihashverify": "git+https://github.com/litecoinz-project/equihashverify.git",
+        "equihashverify": "git+https://github.com/zencashofficial/equihashverify.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*",
